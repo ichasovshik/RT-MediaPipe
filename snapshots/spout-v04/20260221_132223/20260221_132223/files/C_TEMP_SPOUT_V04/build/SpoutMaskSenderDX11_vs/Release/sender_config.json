@@ -1,0 +1,9 @@
+{
+  "inputSenderName": "PHASE2_TD_OUT_V04",
+  "senderName": "PHASE2_TD_MASK_V04",
+  "size": [1280, 720],
+  "modelPath": "Z:\\MediaPipe\\Working-dir\\Spout-v04\\models\\ov_ir\\selfie_multiclass_256x256.xml",
+  "device": "CPU",
+  "outputMode": "segColor",
+  "debugDiag": true
+}

@@ -1,0 +1,20 @@
+﻿SNAPSHOT
+--------
+Generated:  2026-02-21 13:22:56
+Computer:   WIN-6OGLFH9OAPM
+User:       Administrator
+OutDir:     Z:\MediaPipe\Working-dir\_drop\spout-v04-snapshots\20260221_132223
+
+Targets:
+- C:\Temp\Spout-v04
+- Z:\MediaPipe\Working-dir\Spout-v04
+- Z:\MediaPipe\Working-dir\_drop\Spout-v04-real
+
+Manifest:   Z:\MediaPipe\Working-dir\_drop\spout-v04-snapshots\20260221_132223\snapshot_manifest.tsv
+Text copied: 277 files
+Total inventoried (filtered): 277 files
+
+Notes:
+- Only "text-like" files are copied into the snapshot.
+- .toe/.tox are NOT copied (unless you add -IncludeBinaryLists for manifest-only).
+- SHA256 computed only for files <= 50MB to keep runtime reasonable.

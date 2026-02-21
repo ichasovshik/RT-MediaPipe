@@ -1,0 +1,3 @@
+Z:/MediaPipe/Working-dir/Spout-v01/build/SpoutMaskSenderDX11_vs/CMakeFiles/SpoutMaskSenderDX11.dir
+Z:/MediaPipe/Working-dir/Spout-v01/build/SpoutMaskSenderDX11_vs/CMakeFiles/ALL_BUILD.dir
+Z:/MediaPipe/Working-dir/Spout-v01/build/SpoutMaskSenderDX11_vs/CMakeFiles/ZERO_CHECK.dir
